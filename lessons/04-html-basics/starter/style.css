@@ -1,6 +1,10 @@
 h1 {
   font-size: 28px;
 }
-<body>
-<h1>
-<button>
+body {
+  font-family:Georgia ; 
+}
+button {
+ color:navy ;
+   
+}
